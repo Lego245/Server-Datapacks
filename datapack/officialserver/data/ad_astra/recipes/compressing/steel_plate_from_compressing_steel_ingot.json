@@ -1,0 +1,11 @@
+{
+  "type": "ad_astra:compressing",
+  "input": {
+    "id": "ad_astra_platform:steel_ingots"
+  },
+  "output": {
+    "id": "minecraft:air",
+    "count": 1
+  },
+  "cookTime": 200
+}
