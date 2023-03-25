@@ -1,8 +1,8 @@
 {
     "replace":true,
     "values": [
-      "c:raw_meat",
-      "c:cooked_meat",
+      "#c:raw_meat",
+      "#c:cooked_meat",
       "minecraft:rotten_flesh",
       "minecraft:pufferfish",
       "minecraft:tropical_fish",

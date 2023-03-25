@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "SPS",
+      "SCS",
+      "SMS"
+    ],
+    "key": {
+      "C": {
+        "item": "techreborn:electronic_circuit"
+      },
+      "S": {
+        "item": "minecraft:stone"
+      },
+      "P": {
+        "item": "create:mechanical_press"
+      },
+      "M": {
+        "item": "techreborn:basic_machine_frame"
+      }
+    },
+    "result": {
+      "item": "techreborn:compressor"
+    }
+  }

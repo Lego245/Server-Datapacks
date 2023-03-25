@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": {
+        "tag": "ad_astra_platform:iron_plates"
+      },
+      "P": {
+        "item": "techreborn:compressor"
+      }
+    },
+    "pattern": [
+      "###",
+      "#P#",
+      "###"
+    ],
+    "result": {
+      "item": "ad_astra:compressor"
+    }
+  }

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": {
+        "tag": "ad_astra_platform:desh_plates"
+      },
+      "C": {
+        "item": "create:fluid_pipe"
+      },
+      "c": {
+        "item": "create:mechanical_pipe"
+      }
+    },
+    "pattern": [
+      "###",
+      "CcC",
+      "###"
+    ],
+    "result": {
+      "count": 2,
+      "item": "ad_astra:desh_fluid_pipe"
+    }
+  }
