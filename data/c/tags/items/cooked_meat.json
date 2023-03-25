@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "twilightforest:hydra_chop",
+        "twilightforest:cooked_venison",
+        "naturalist:cooked_venison",
+        "twilightforest:cooked_meef"
+    ]
+  }

@@ -1,8 +1,8 @@
 {
-  "block": "minecraft:deepslate",
+  "block": "create:cut_deepslate_bricks",
   "dim": "reborn:mining",
   "ignitionType": "ITEM",
-  "ignitionSource": "minecraft:iron_pickaxe",
+  "ignitionSource": "twilightforest:giant_pickaxe",
   "returnDim": "minecraft:overworld",
   "r": 150,
   "g": 129,

@@ -1,0 +1,13 @@
+{
+    "replace":true,
+    "values": [
+      "c:raw_meat",
+      "c:cooked_meat",
+      "minecraft:rotten_flesh",
+      "minecraft:pufferfish",
+      "minecraft:tropical_fish",
+      "minecraft:spider_eye",
+      "minecraft:rabbit_stew",
+      "twilightforest:meef_stroganoff"
+    ]
+  }

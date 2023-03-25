@@ -1,13 +1,16 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "LLL",
-    "LGL",
-    "LLL"
+    "GLG",
+    "LSL",
+    "GLG"
   ],
   "key": {
     "L": {
       "item": "minecraft:lapis_block"
+    },
+    "S": {
+      "item": "minecraft:nether_star"
     },
     "G": {
       "item": "minecraft:gold_block"
