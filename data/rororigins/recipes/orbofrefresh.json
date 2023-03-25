@@ -10,10 +10,10 @@
       "item": "minecraft:lapis_block"
     },
     "S": {
-      "item": "minecraft:nether_star"
+      "item": "minecraft:diamond"
     },
     "G": {
-      "item": "minecraft:gold_block"
+      "item": "minecraft:gold_ingot"
     }
   },
   "result": {
