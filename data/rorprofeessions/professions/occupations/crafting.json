@@ -1,0 +1,229 @@
+{
+  "actions": [
+    {
+      "action": "professions:craft_item",
+      "conditions": [],
+      "rewards": [
+        {
+          "reward": "professions:payment",
+          "amount": 1.5,
+          "currency": "eights_economy:dollars"
+        },
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 0.75
+        }
+      ],
+      "items": [
+        "ad_astra:steel_cable",
+        "ad_astra:desh_cable",
+        "ad_astra:desh_fluid_pipe",
+        "ad_astra:ostrum_fluid_pipe",
+        "ad_astra:cable_duct",
+        "ad_astra:fluid_pipe_duct",
+        "ad_astra:launch_pad"
+      ]
+    },
+    {
+      "action": "professions:craft_item",
+      "conditions": [],
+      "rewards": [
+        {
+          "reward": "professions:payment",
+          "amount": 3.5,
+          "currency": "eights_economy:dollars"
+        },
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 1.75
+        }
+      ],
+      "items": [
+        "ad_astra:coal_generator",
+        "ad_astra:compressor",
+        "ad_astra:nasa_workbench",
+        "ad_astra:fuel_refinery",
+        "ad_astra:oxygen_loader",
+        "ad_astra:solar_panel",
+        "ad_astra:oxygen_distributor",
+        "ad_astra:water_pump",
+        "ad_astra:iron_sliding_door",
+        "ad_astra:steel_sliding_door",
+        "ad_astra:reinforceed_door",
+        "ad_astra:steel_door",
+        "ad_astra:desh_sliding_door",
+        "ad_astra:ostrum_sliding_door",
+        "ad_astra:calorite_sliding_door",
+        "ad_astra:glowing_desh_pillar",
+        "ad_astra:glowing_ostrum_pillar",
+        "ad_astra:glowing_calorite_pillar"
+      ]
+    },
+    {
+      "action": "professions:craft_item",
+      "conditions": [],
+      "rewards": [
+        {
+          "reward": "professions:payment",
+          "amount": 7.5,
+          "currency": "eights_economy:dollars"
+        },
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 3.75
+        }
+      ],
+      "items": [
+        "ad_astra:energizer",
+        "ad_astra:cryo_freezer",
+        "ad_astra:oxygen_sensor",
+        "ad_astra:tier_1_rover"
+      ]
+    },
+    {
+      "action": "professions:craft_item",
+      "conditions": [],
+      "rewards": [
+        {
+          "reward": "professions:payment",
+          "amount": 2.0,
+          "currency": "eights_economy:dollars"
+        },
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 2.0
+        }
+      ],
+      "items": [
+        "ad_astra:desh_plating",
+        "ad_astra:desh_plating_stairs",
+        "ad_astra:desh_plating_slab",
+        "ad_astra:desh_plating_pillar",
+        "ad_astra:desh_plating_button",
+        "ad_astra:desh_plating_pressure_plate",
+        "ad_astra:ostrum_plating",
+        "ad_astra:ostrum_plating_stairs",
+        "ad_astra:ostrum_plating_slab",
+        "ad_astra:ostrum_plating_pillar",
+        "ad_astra:ostrum_plating_button",
+        "ad_astra:ostrum_plating_pressure_plate",
+        "ad_astra:calorite_plating",
+        "ad_astra:calorite_plating_stairs",
+        "ad_astra:calorite_plating_slab",
+        "ad_astra:calorite_plating_pillar",
+        "ad_astra:calorite_plating_button",
+        "ad_astra:calorite_plating_pressure_plate",
+        "ad_astra:moon_stone_stairs",
+        "ad_astra:moon_stone_slab",
+        "ad_astra:moon_cobblestone_stairs",
+        "ad_astra:moon_cobblestone_slab",
+        "ad_astra:moon_stone_brick",
+        "ad_astra:moon_stone_brick_stairs",
+        "ad_astra:moon_stone_brick_slab",
+        "ad_astra:cracked_moon_stone_brick",
+        "ad_astra:chiseled_moon_stone_brick",
+        "ad_astra:chiseled_moon_stone_brick_stairs",
+        "ad_astra:chiseled_moon_stone_brick_slab",
+        "ad_astra:polished_moon_stone_brick",
+        "ad_astra:polished_moon_stone_brick_stairs",
+        "ad_astra:polished_moon_stone_brick_slab",
+        "ad_astra:moon_pillar",
+        "ad_astra:moon_stone_brick_wall",
+        "ad_astra:mars_stone_stairs",
+        "ad_astra:mars_stone_slab",
+        "ad_astra:mars_cobblestone_stairs",
+        "ad_astra:mars_cobblestone_slab",
+        "ad_astra:mars_stone_brick",
+        "ad_astra:mars_stone_brick_stairs",
+        "ad_astra:mars_stone_brick_slab",
+        "ad_astra:cracked_mars_stone_brick",
+        "ad_astra:chiseled_mars_stone_brick",
+        "ad_astra:chiseled_mars_stone_brick_stairs",
+        "ad_astra:chiseled_mars_stone_brick_slab",
+        "ad_astra:polished_mars_stone_brick",
+        "ad_astra:polished_mars_stone_brick_stairs",
+        "ad_astra:polished_mars_stone_brick_slab",
+        "ad_astra:mars_pillar",
+        "ad_astra:mars_stone_brick_wall",
+        "ad_astra:venus_stone_stairs",
+        "ad_astra:venus_stone_slab",
+        "ad_astra:venus_cobblestone_stairs",
+        "ad_astra:venus_cobblestone_slab",
+        "ad_astra:venus_stone_brick",
+        "ad_astra:venus_stone_brick_stairs",
+        "ad_astra:venus_stone_brick_slab",
+        "ad_astra:cracked_venus_stone_brick",
+        "ad_astra:chiseled_venus_stone_brick",
+        "ad_astra:chiseled_venus_stone_brick_stairs",
+        "ad_astra:chiseled_venus_stone_brick_slab",
+        "ad_astra:polished_venus_stone_brick",
+        "ad_astra:polished_venus_stone_brick_stairs",
+        "ad_astra:polished_venus_stone_brick_slab",
+        "ad_astra:venus_pillar",
+        "ad_astra:venus_stone_brick_wall",
+        "ad_astra:mercury_stone_stairs",
+        "ad_astra:mercury_stone_slab",
+        "ad_astra:mercury_cobblestone_stairs",
+        "ad_astra:mercury_cobblestone_slab",
+        "ad_astra:mercury_stone_brick",
+        "ad_astra:mercury_stone_brick_stairs",
+        "ad_astra:mercury_stone_brick_slab",
+        "ad_astra:cracked_mercury_stone_brick",
+        "ad_astra:chiseled_mercury_stone_brick",
+        "ad_astra:chiseled_mercury_stone_brick_stairs",
+        "ad_astra:chiseled_mercury_stone_brick_slab",
+        "ad_astra:polished_mercury_stone_brick",
+        "ad_astra:polished_mercury_stone_brick_stairs",
+        "ad_astra:polished_mercury_stone_brick_slab",
+        "ad_astra:mercury_pillar",
+        "ad_astra:mercury_stone_brick_wall",
+        "ad_astra:glacio_stone_stairs",
+        "ad_astra:glacio_stone_slab",
+        "ad_astra:glacio_cobblestone_stairs",
+        "ad_astra:glacio_cobblestone_slab",
+        "ad_astra:glacio_stone_brick",
+        "ad_astra:glacio_stone_brick_stairs",
+        "ad_astra:glacio_stone_brick_slab",
+        "ad_astra:cracked_glacio_stone_brick",
+        "ad_astra:chiseled_glacio_stone_brick",
+        "ad_astra:chiseled_glacio_stone_brick_stairs",
+        "ad_astra:chiseled_glacio_stone_brick_slab",
+        "ad_astra:polished_glacio_stone_brick",
+        "ad_astra:polished_glacio_stone_brick_stairs",
+        "ad_astra:polished_glacio_stone_brick_slab",
+        "ad_astra:glacio_pillar",
+        "ad_astra:glacio_stone_brick_wall",
+        "ad_astra:permafrost_stairs",
+        "ad_astra:permafrost_slab",
+        "ad_astra:permafrost_brick",
+        "ad_astra:permafrost_brick_stairs",
+        "ad_astra:permafrost_brick_slab",
+        "ad_astra:cracked_permafrost_brick",
+        "ad_astra:permafrost_tiles",
+        "ad_astra:chiseled_permafrost_brick",
+        "ad_astra:chiseled_permafrost_brick_stairs",
+        "ad_astra:chiseled_permafrost_brick_slab",
+        "ad_astra:polished_permafrost_brick",
+        "ad_astra:polished_permafrost_brick_stairs",
+        "ad_astra:polished_permafrost_brick_slab",
+        "ad_astra:permafrost_pillar",
+        "ad_astra:permafrost_brick_wall",
+        "ad_astra:stripped_glacian_log",
+        "ad_astra:glacian_planks",
+        "ad_astra:glacian_stairs",
+        "ad_astra:glacian_slab",
+        "ad_astra:glacian_door",
+        "ad_astra:glacian_trapdoor",
+        "ad_astra:glacian_fence",
+        "ad_astra:glacian_fence_gate",
+        "ad_astra:glacian_button",
+        "ad_astra:glacian_pressure_plate",
+        "ad_astra:glacian_sign",
+        "ad_astra:glacian_fur"
+      ]
+    }
+  ],
+  "function_type": "professions:append",
+  "to_edit_profession_key": "professions:crafting",
+  "unlocks": []
+}

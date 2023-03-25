@@ -1,0 +1,10 @@
+{
+  "block": "minecraft:deepslate",
+  "dim": "reborn:mining",
+  "ignitionType": "ITEM",
+  "ignitionSource": "minecraft:iron_pickaxe",
+  "returnDim": "minecraft:overworld",
+  "r": 150,
+  "g": 129,
+  "b": 70
+}
